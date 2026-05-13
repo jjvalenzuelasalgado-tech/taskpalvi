@@ -22,6 +22,10 @@ Consideraciones Descarga Archivos:
 - Para descargar completamente el aplicativo, se subieron al repositorio 6 archivos zip takspalvi01-06.zip, los cuales
   se deben descomprimir en orden para que se genere la carpeta según Imagen ResumenCarpetaAplicación.png
 
+Grabación Video Explicativo:
+
+- descomprimir archivo Grabación 2026-05-12 234311.rar
+
 Consideraciones Especiales:
 
 1) Se eliminaron fechas puntuales en cada DATASET, para denotar que al seleccionar cada dataset
